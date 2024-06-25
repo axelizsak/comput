@@ -1,0 +1,2 @@
+declare target/dev/comput_SimpleStorage.contract_class.json
+deploy 0x008a4e68b575a68433ba1ec53f1dca1aba1b2d0337c14f2bb3ab0783322ea840 
